@@ -1,21 +1,40 @@
-<h1 align="center">Hi, I'm Micaeeld</h1>
-<h3 align="center">Data Scientist</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D5FA&center=true&multiline=true&width=1025&lines=Hi%2C+im+Micael+Donadia;Data+Scientist" alt="Micaeeld" /></a>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micaeeld&label=Profile%20views&color=0e75b6&style=flat" alt="micaeeld" /> </p>
+<h1>Language and Tools</h1>
+  <img height="45px" src="Images/Static/tools.png">
+  <hr><br>
+  <table align='center'>
+    <tr>
+      <td align='center'><img width="70" src="Images/Static/python.png" title="Python"></td>
+      <td align='center'><img width="70" src="Images/Static/cpp.png" title="C++"></td>
+      <td align='center'><img width="70" src="Images/Static/html.png" title="HTML"></td>
+      <td align='center'><img width="70" src="Images/Static/css.png" title="CSS"></td>
+      <td align='center'><img width="70" src="Images/Static/bootstrap.png" title="Bootstrap"></td>
+      <td align='center'><img width="50" src="Images/Static/django.png" title="Django"></td>
+    </tr>
+    <tr>
+      <td align='center'><img width="70" src="Images/Static/markdown.png" title="MarkDown"></td>
+      <td align='center'><img width="70" src="Images/Static/firebase.png" title="Firebase"></td>
+      <td align='center'><img width="70" src="Images/Static/sql.png" title="SQL"></td>
+      <td align='center'><img width="70" src="Images/Static/sublime.png" title="Sublime"></td>
+      <td align='center'><img width="70" src="Images/Static/git.png" title="git"></td>
+      <td align='center'><img width="70" src="Images/Static/github.png" title="Github"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td align='center'><img width="70" src="Images/Static/jupyter.png" title="Jupyter"></td>
+      <td align='center'><img width="70" src="Images/Static/tensorflow.png" title="TensorFlow"></td>
+      <td align='center'><img width="70" src="Images/Static/keras.png" title="Keras"></td>
+      <td align='center'><img width="70" src="Images/Static/spark.png" title="Apache Spark"></td>
+      <td></td>
+    </tr>
+  </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micaeeld" alt="micaeeld" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/micael donadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micael donadia" height="30" width="40" /></a>
-<a href="https://kaggle.com/micaeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="micaeld" height="30" width="40" /></a>
-</p>
+<div align="center">  
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&count_private=true&hide_border=true&title_color=00d5fa&icon_color=07c1f0&text_color=ebebeb&bg_color=0d1117" alt="Micaeeld"/> 
+  <img  width="49%" height="300px" alt="Micaeeld" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=00d5fa&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=00d5fa"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micaeeld&show_icons=true&locale=en&layout=compact" alt="micaeeld" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micaeeld&show_icons=true&locale=en" alt="micaeeld" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micaeeld&" alt="micaeeld" /></p>
