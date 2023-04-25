@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=067799&height=20&section=header"/>
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&pause=1000&color=ebebeb&width=1025&height=80&lines=Micael+Donadia;Data+Scientist" alt="Micaeeld" /></a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&pause=500&color=ebebeb&width=1025&height=80&lines=Micael+Donadia;Data+Scientist" alt="Micaeeld" /></a>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/micael-donadia/" target="_blank"><img width="40" src="images/linkedin.png" title="Linkedin"</a>
