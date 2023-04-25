@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=067799&height=20&section=header"/>
+
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&pause=1000&color=ebebeb&width=1025&height=80&lines=Micael+Donadia;Data+Scientist" alt="Micaeeld" /></a>
 
 <div align="center">  
@@ -7,7 +9,7 @@
 </div> 
 
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Language+and+Tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2500&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Language+and+Tools" alt="Micaeeld" /></a>
   <table align='center'>
     <tr>
       <td align='center'><img width="80" src="images/python.png" title="Python"></td>
@@ -27,7 +29,7 @@
 <hr>
 <div align="left">  
   <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&count_private=true&hide_border=true&title_color=00d5fa&icon_color=07c1f0&text_color=ebebeb&bg_color=0d1117" alt="Micaeeld"/> 
-  <img  width="49%" height="300px" alt="Micaeeld" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=00d5fa&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=00d5fa"/>
+  <img  width="49%" height="300px" alt="Micaeeld" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=ebebeb&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=ebebeb"/>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=067799&height=20&section=section"/>
