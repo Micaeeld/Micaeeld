@@ -20,6 +20,8 @@
       <td align='center'><img width="80" src="images/github.png" title="Github"></td>
       <td align='center'><img width="80" src="images/jupyter.png" title="Jupyter"></td>
       <td align='center'><img width="80" src="images/kaggle.png" title="Kaggle"></td>
+     </tr>
+     <tr>
       <td align='center'><img width="80" src="images/powerbi.png" title="Power BI"></td>
       <td align='center'><img width="80" src="images/tableau.png" title="Tableau"></td>
       <td align='center'><img width="80" src="images/qliksense.png" title="Qlik Sense"></td>
