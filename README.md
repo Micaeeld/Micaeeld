@@ -28,7 +28,7 @@
 
 <hr>
 <div align="left">  
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&count_private=true&hide_border=true&title_color=00d5fa&icon_color=07c1f0&text_color=ebebeb&bg_color=0d1117" alt="Micaeeld"/> 
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&count_private=true&hide_border=true&title_color=00d5fa&icon_color=07c1f0&text_color=ebebeb&bg_color=0A0E12" alt="Micaeeld"/> 
   <img  width="49%" height="300px" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=ebebeb&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=ebebeb" alt="Micaeeld"/>
 </div>
 
