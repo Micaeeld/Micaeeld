@@ -27,16 +27,13 @@
       <td align='center'><img width="80" src="images/excel.png" title="Excel"></td>
     </tr>
   </table>
-    
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2500&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Profile+Stats" alt="Micaeeld" /></a>
-    
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Micaeeld&color=grey&style=for-the-badge&label=PROFILE+VIEWS" /></p> 
-
 <div align="left">  
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&hide=contribs,prs&ring_color=07c1f0&count_private=true&hide_border=true&hide_title=true&icon_color=07c1f0&text_color=ebebeb&bg_color=0A0E12" alt="Micaeeld"/> 
-  <img  width="49%" height="300px" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=ebebeb&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=ebebeb" alt="Micaeeld"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2500&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Profile+Stats" alt="Micaeeld" /></a>
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Micaeeld&color=grey&style=for-the-badge&label=PROFILE+VIEWS" /></p>
+  <img width="51%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&hide=contribs,prs&ring_color=07c1f0&count_private=true&hide_border=true&hide_title=true&icon_color=07c1f0&text_color=ebebeb&bg_color=0A0E12" alt="Micaeeld"/> 
+  <img  width="46%" height="300px" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=ebebeb&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=ebebeb" alt="Micaeeld"/>
 </div>
-
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=110&rotate=180&section=footer"/>
