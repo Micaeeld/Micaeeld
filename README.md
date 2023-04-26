@@ -25,9 +25,10 @@
       <td align='center'><img width="80" src="images/powerbi.png" title="Power BI"></td>
       <td align='center'><img width="80" src="images/tableau.png" title="Tableau"></td>
       <td align='center'><img width="80" src="images/qliksense.png" title="Qlik Sense"></td>
+       <td align='center'><img width="80" src="images/mongodb.png" title="MongoDB"></td>
       <td align='center'><img width="80" src="images/tensorflow.png" title="TensorFlow"></td>
       <td align='center'><img width="80" src="images/excel.png" title="Excel"></td>
-    </tr>
+     </tr>
   </table>
 <hr>
 
