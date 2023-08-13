@@ -1,6 +1,6 @@
 <img width = 100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0099ff&section=header"/>
 
-<a href = "https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&pause=500&color=ebebeb&width=1025&height=80&lines=Micael+Donadia;Data+Scientist;19+Years+old" alt="Micaeeld" /></a>
+<a href = "https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&pause=500&color=ebebeb&width=1025&height=80&lines=Micael+Donadia;Data+Scientist;20+Years+old" alt="Micaeeld" /></a>
 
 
 <div align="center">  
