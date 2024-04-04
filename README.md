@@ -34,7 +34,7 @@
 <hr>
 
 <div align="left">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2500&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Perfil+Status" alt="Micaeeld" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2500&color=ebebeb&repeat=false&center=true&width=1025&height=80&lines=Status" alt="Micaeeld" /></a>
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Micaeeld&color=grey&style=for-the-badge&label=PROFILE+VIEWS" /></p>
   <img width="51%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Micaeeld&show_icons=true&hide=contribs,prs&ring_color=07c1f0&count_private=true&hide_border=true&hide_title=true&icon_color=07c1f0&text_color=ebebeb&bg_color=0d1117" alt="Micaeeld"/> 
   <img  width="46%" height="300px" src="https://streak-stats.demolab.com?user=Micaeeld&theme=transparent&hide_border=true&ring=07c1f0&dates=ebebeb&stroke=ebebeb&sideNums=ebebeb&fire=00d5fa&currStreakLabel=07c1f0&sideLabels=07c1f0&currStreakNum=ebebeb" alt="Micaeeld"/>
