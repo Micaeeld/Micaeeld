@@ -6,7 +6,6 @@
 <div align="center">  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2500&center=true&color=ebebeb&repeat=false&width=1025&height=30&lines=Contato" alt="Micaeeld" /></a>
   <a href="https://www.linkedin.com/in/micael-donadia/" target="_blank"><img width="40" src="images/linkedin.png" title="Linkedin"</a>
-  <a href="https://www.kaggle.com/micaeld" target="_blank"><img width="40" src="images/kaggle.png" title="Kaggle"</a>
   <a href="mailto:micaeldonadia18@gmail.om" target="_blank"><img width="40" src="images/gmail.png" title="Gmail"</a>
 </div> 
 
